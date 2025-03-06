@@ -1,18 +1,10 @@
-# Hangman HW
- Fun to hangman game made with React
+# Hangman Game
+A simple hangman game made with React
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-Installs required dependencies
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+## SETUP
+- Clone respository in your terminal using the command: git clone https://github.com/Dtrotman20/HangmanGame.git
+- (If you recieve an error, most likely you do not have git installed. Download here (Windows): https://git-scm.com/downloads/win)
+- Navigate to project directory using the command: cd HangmanGame
+- Install dependencies using the command: npm install
+- Start development server with the command: npm start
+- Open browser and navigate to 'http://localhost:3000'
